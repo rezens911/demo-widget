@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843649719379",
+    "project_id": "aplikasi-pertama-24645",
+    "storage_bucket": "aplikasi-pertama-24645.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843649719379:android:bd71b572f8035bb2df7aa6",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pertama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHIF_2ifjaRdm3mdSYpwLet-AMYflZ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
